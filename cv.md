@@ -1,17 +1,21 @@
 ![My photo](/img/portret.jpg)
 
-#About me
 
-###_Hello! My name is __Roman Babenko__,i am 27 years old. I'm living in Minsk. I want to be cool front-end development!_
+## _Hello! My name is __Roman Babenko__!_
 
-##My contacts:
-
-* phone number: _+375297404091_,
-* Github: _Roman-93_,
-* telegram: _Roman_Babenko_,
-* discord: _roman170893#7038_,
+### My contacts:
+* phone number: _`+375297404091`_,
+* Github: _`Roman-93`_,
+* telegram: _`Roman_Babenko`_,
+* discord: _`roman170893#7038`_,
 * instagram: _`romanbl4_babenbl4`_
 
 
+### About me:
+I am 27 years old. I'm living in Minsk.
+I want to be cool front-end development!
+I have little development skills at the moment.
+In my free time I study the front-end.
+I wish to become not a bad developer in one year.
 
-
+ __My first certificate:__ ![My sertificate](/img/sertificate.png)
