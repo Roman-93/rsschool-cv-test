@@ -4,11 +4,11 @@
 ## _Hello! My name is __Roman Babenko__!_
 
 ### My contacts:
-* phone number: _`+375297404091`_,
-* Github: _`Roman-93`_,
-* telegram: _`Roman_Babenko`_,
-* discord: _`roman170893#7038`_,
-* instagram: _`romanbl4_babenbl4`_
+* Phone number: `+375297404091`,
+* Github: `Roman-93`,
+* Telegram: `Roman_Babenko`,
+* Discord: `roman170893#7038`,
+* Instagram: `romanbl4_babenbl4`.
 
 
 ### About me:
@@ -18,4 +18,5 @@ I have little development skills at the moment.
 In my free time I study the front-end.
 I wish to become not a bad developer in one year.
 
- __My first certificate:__ ![My sertificate](/img/sertificate.png)
+ __My first certificate:__ 
+ ![My sertificate](/img/sertificate.png)
