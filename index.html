@@ -6,11 +6,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>My page</title>
+  <link rel="stylesheet" href="./style.css">
 </head>
 
 <body>
-  <div>
-    <div>
+  <div class="block">
+    <div class="purple">
       <header>
         <ul>
           <li>
@@ -27,8 +28,9 @@
           </li>
         </ul>
       </header>
+      <div class="logo-container"></div>
       <article>
-        Hi! My name is Roman, nice to meet you!
+        <h3>Hi! My name is Roman, nice to meet you!</h3>
       </article>
     </div>
     <section>
@@ -53,37 +55,35 @@
         </ul>
       </div>
     </section>
-
     <div id="private">
       <h2>
         About me
       </h2>
-
       <p>
         I am 27 years old. I'm living in Minsk.I like active rest, I play the guitar.I want to be cool front-end
         development! I have little development skills at the moment. In my free time I study the front-end. I wish to
         become not a bad developer in one year.
       </p>
-      <div>
-        <img src="img/guitar.jpg" alt="my photo" height="250px">
-        <img src="img/me.JPEG" alt="my photo" height="250px">
-        <img src="img/parachute.jpg" alt="my photo" height="250px">
+      <div class="flex-center">
+        <img class="photo" src="img/guitar.jpg" alt="my photo" />
+        <img class="photo" src="img/me.JPEG" alt="my photo" />
+        <img class="photo" src="img/parachute.jpg" alt="my photo" />
       </div>
     </div>
-    <footer>
-      <nav>
-        <a href="https://github.com/Roman-93/rsschool-cv">
-          <img src="/img/GitHub-Emblem.png" alt="logo github" height="50px" />
-        </a>
-      </nav>
-      <div>Create by Roman Babenko. 2021</div>
-      <nav>
-        <a href="https://app.rs.school">
-          <img src="/img/logo-rsschool3.png" alt="logo rss" height="50px" />
-        </a>
-      </nav>
-    </footer>
   </div>
+  <footer>
+    <nav>
+      <a href="https://github.com/Roman-93/rsschool-cv">
+        <img class="logo" src="/img/GitHub-Emblem.png" alt="logo github" />
+      </a>
+    </nav>
+    <div>Create by Roman Babenko. 2021</div>
+    <nav>
+      <a href="https://app.rs.school">
+        <img class="logo" src="/img/logo-rsschool3.png" alt="logo rss" />
+      </a>
+    </nav>
+  </footer>
 
 
 </body>
