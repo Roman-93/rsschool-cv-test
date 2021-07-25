@@ -1,0 +1,121 @@
+html,
+body,
+p {
+  padding: 0;
+  margin: 0;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
+.block,
+section,
+header {
+  width: 900px;
+  margin: auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.header {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  flex-direction: row;
+}
+
+footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo-container {
+  margin: auto;
+  width: 900px;
+  height: 600px;
+  background-image: url(img/portret.jpg);
+  background-size: cover;
+  box-shadow: 0px -80px 60px 0px rgb(0 0 0 / 80%) inset;
+}
+
+.my-name {
+  font-size: 30px;
+  letter-spacing: 5px;
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  color: #00cceb;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  margin-bottom: 20px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.imgUl {
+  background: url(/img/iconOk2.png) no-repeat left center;
+  padding-left: 60px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 0;
+}
+
+.photo {
+  height: 250px;
+  border-radius: 50%;
+}
+
+.logo {
+  height: 50px;
+}
+
+a {
+  font-size: 24px;
+  text-decoration: none;
+  color: #00cceb;
+}
+
+h1 {
+  text-align: center;
+  position: relative;
+  margin: 0;
+  margin-top: 10px;
+  padding: 0 60px;
+  top: -55px;
+  color: rgb(255, 255, 255);
+}
+
+h2 {
+  font-size: 30px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p,
+li {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  color: rgb(128, 128, 128);
+}
+
+.purple {
+  background-color: #6a13eb;
+}
